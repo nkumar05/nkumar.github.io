@@ -16,8 +16,8 @@ My work focuses on applied economic analysis at the intersection of **topic A**,
 - Topic 4 (optional)
 
 ## Contact
-Email: your@email  
-Location: City, Country  
+Email: nkumar.econ@gmail.com
+Location: New Delhi, India  
 
 [Download CV (PDF)](/files/CV.pdf)
 
