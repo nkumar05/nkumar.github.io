@@ -1,11 +1,10 @@
 # Authors
-
-Name Name:
-  name        : "Naresh Kumar
-  uri         : "https://nkumar05.github.io
-  email       : "nkumar.econ@gmail.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
+Naresh Kumar:
+  name: "Naresh Kumar"
+  avatar: "profile.png"
+  bio: "Economist focused on growth, trade, labor markets, and applied policy analysis."
+  location: "New Delhi, India"
+  employer: "World Bank"
+  email: "nkumar.econ@gmail.com"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  github: "nkumar05"
