@@ -53,20 +53,20 @@ the results show that SI increases reported incidence of IPV, but it cannot be r
 - **[The Dynamic Effects of Cash Transfers: Evidence from Rural Liberia and Malawi](https://www.aeaweb.org/articles?id=10.1257/app.20230034&&from=f)**, with Shilpa Aggarwal, Jenny Aker, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *Revise & Resubmit (2nd round), AEJ: Applied*. 2025.
 
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    Little is known about the evolution and persistence of the effects of one-time cash transfers, especially in rural agricultural settings with limited productive investment opportunities. We use bi-monthly phone surveys to estimate dynamic impacts for cash transfer recipients in Liberia and Malawi. We find immediate increases in food security that attenuate over time but do not entirely dissipate even 1.5-2 years later, driven by increased farm investments and production. We find increases in farm profits, reductions in casual off-farm labor, improvements in psychological well-being, and, in Liberia, a reduction in IPV.
-  </div>
-</details>
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      Little is known about the evolution and persistence of the effects of one-time cash transfers, especially in rural agricultural settings with limited productive investment opportunities. We use bi-monthly phone surveys to estimate dynamic impacts for cash transfer recipients in Liberia and Malawi. We find immediate increases in food security that attenuate over time but do not entirely dissipate even 1.5-2 years later, driven by increased farm investments and production. We find increases in farm profits, reductions in casual off-farm labor, improvements in psychological well-being, and, in Liberia, a reduction in IPV.
+    </div>
+  </details>
   
 - **[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](https://drive.google.com/file/d/18vmXKlNaDD1h13iWjQPzuAO4m4DNaB3x/view)**, with Shilpa Aggarwal, Dahyeon Jeong, Rolly Kapoor, David Sungho Park, Jonathan Robinson, and Alan Spearot. 2025.
 
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    Many countries subsidize agricultural inputs but require farmers to travel to retailers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
-  </div>
-</details>
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      Many countries subsidize agricultural inputs but require farmers to travel to retailers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
+    </div>
+ </details>
 
 - **“Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia,”** with David Sungho Park. September 2022.
 
