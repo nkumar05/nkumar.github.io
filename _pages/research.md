@@ -69,17 +69,18 @@ the results show that SI increases reported incidence of IPV, but it cannot be r
       </div>
   </details>
 
+<!--
 - **“Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia,”** with David Sungho Park. September 2022.
-
+-->
 ---
 
 ## IMF Working Papers and Book Chapters
-- **“South Africa: Labor Market Dynamics and Inequality,”** with Rahul Anand and Siddharth Kothari. IMF Working Paper, July 2016.
-- **“Understanding India’s Food Inflation: The Role of Demand and Supply Factors,”** with Rahul Anand and Volodymyr Tulin. IMF Working Paper, January 2016.  
+- **[South Africa: Labor Market Dynamics and Inequality](https://www.imf.org/external/pubs/ft/wp/2016/wp16137.pdf)**, with Rahul Anand and Siddharth Kothari. IMF Working Paper, July 2016.
+- **[Understanding India’s Food Inflation: The Role of Demand and Supply Factors](https://www.imf.org/external/pubs/ft/wp/2016/wp1602.pdf)**, with Rahul Anand and Volodymyr Tulin. IMF Working Paper, January 2016.  
   - Book chapter: **“Taming Indian Inflation,”** in *Taming Indian Inflation* (edited by Paul Cashin and Rahul Anand), 2016.
-- **“Women Workers in India: Why So Few Among So Many?,”** with Sonali Das, Sonali Jain-Chandra, and Kalpana Kochhar. March 2015.  
+- **[Women Workers in India: Why So Few Among So Many?](https://www.imf.org/external/pubs/ft/wp/2015/wp1555.pdf)**, with Sonali Das, Sonali Jain-Chandra, and Kalpana Kochhar. March 2015.  
   - Book chapter: **“Women, Work and Economic Growth: Leveling the Playing Field,”** in *Women, Work and Economic Growth: Leveling the Playing Field* (edited by Kalpana Kochhar, Sonali Jain-Chandra, and Monique Newiak), 2017.
-- **“India: Defining and Explaining Inclusive Growth and Poverty Reduction,”** with Rahul Anand and Volodymyr Tulin. April 2014.
+- **[India: Defining and Explaining Inclusive Growth and Poverty Reduction](https://www.imf.org/external/pubs/ft/wp/2014/wp1463.pdf)**, with Rahul Anand and Volodymyr Tulin. April 2014.
 
 ---
 
