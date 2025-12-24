@@ -12,46 +12,47 @@ My research focuses on the distributional and employment implications of economi
 ## Peer-reviewed Publications
 - **[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi](https://doi.org/10.1093/wber/lhae040)**, with Shilpa Aggarwal, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *World Bank Economic Review* (forthcoming).
 
-<details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    Women may under-report intimate partner violence (IPV) in surveys. In an experiment in
-rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face
-interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant
-effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is
-typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed,
-the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these
-increases are spurious.
-  </div>
-</details>
+  <details style="margin: 0.25rem 0 1rem 1.25rem;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      Women may under-report intimate partner violence (IPV) in surveys. In an experiment in
+  rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face
+  interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant
+  effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is
+  typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed,
+  the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these
+  increases are spurious.
+    </div>
+  </details>
 
 - **[Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi](https://doi.org/10.1016/j.jdeveco.2024.103288)**, with Shilpa Aggarwal, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *Journal of Development Economics* 170: 103288. 
 
-<details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    While cash transfers consistently show large effects on immediate outcomes like consumption, limited access to markets may mute their impact on productive investment. In an experiment in Malawi, we cross-cut cash transfers with an ‘‘input fair’’, designed to reduce transport costs to access agricultural inputs. Cash alone increases investment by 27%, while the joint provision of cash and the input fair increases investment by about 40%; thus, the incremental effect of the input fair is equivalent to about a 50% increase compared to the effect of cash alone. Input fairs alone were ineffective.
-  </div>
-</details>
+  <details style="margin: 0.25rem 0 1rem 1.25rem;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      While cash transfers consistently show large effects on immediate outcomes like consumption, limited access to markets may mute their impact on productive investment. In an experiment in Malawi, we cross-cut cash transfers with an ‘‘input fair’’, designed to reduce transport costs to access agricultural inputs. Cash alone increases investment by 27%, while the joint provision of cash and the input fair increases investment by about 40%; thus, the incremental effect of the input fair is equivalent to about a 50% increase compared to the effect of cash alone. Input fairs alone were ineffective.
+    </div>
+  </details>
 
 - **[Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys](https://doi.org/10.1016/j.jdeveco.2022.102992)**, with Shilpa Aggarwal, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *Journal of Development Economics* 161: 102992. 
 
-<details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    Living standards measurement surveys require sustained attention for several hours. We quantify survey fatigue by randomizing the order of questions in 2–3 hour-long in-person surveys. An additional hour of survey time increases the probability that a respondent skips a question by 10%–64%. Because skips are more common, the total monetary value of aggregated categories such as assets or expenditures declines as the survey goes on, and this effect is sizeable for some categories: for example, an extra hour of survey time lowers food expenditures by 25%. We find similar effect sizes within phone surveys in which respondents were already familiar with questions, suggesting that cognitive burden may be a key driver of survey fatigue.
-  </div>
-</details>
+  <details style="margin: 0.25rem 0 1rem 1.25rem;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      Living standards measurement surveys require sustained attention for several hours. We quantify survey fatigue by randomizing the order of questions in 2–3 hour-long in-person surveys. An additional hour of survey time increases the probability that a respondent skips a question by 10%–64%. Because skips are more common, the total monetary value of aggregated categories such as assets or expenditures declines as the survey goes on, and this effect is sizeable for some categories: for example, an extra hour of survey time lowers food expenditures by 25%. We find similar effect sizes within phone surveys in which respondents were already familiar with questions, suggesting that cognitive burden may be a key driver of survey fatigue.
+    </div>
+  </details>
 
 - **[Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)**, with Shilpa Aggarwal, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *PLoS ONE* 17(8): e0271488.
-<details style="margin: 0.25rem 0 1rem 1.25rem;">
-  <summary><strong>Abstract</strong></summary>
-  <div style="margin-top: 0.5rem;">
-    We use data collected from panel phone surveys to document the changes in food security
-of households in rural Liberia and Malawi during the market disruptions associated with the
-COVID-19 lockdowns in 2020. We use two distinct empirical approaches in our analysis: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, in order to attempt to control for seasonality. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
-  </div>
-</details>
+
+  <details style="margin: 0.25rem 0 1rem 1.25rem;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="margin-top: 0.5rem;">
+      We use data collected from panel phone surveys to document the changes in food security
+  of households in rural Liberia and Malawi during the market disruptions associated with the
+  COVID-19 lockdowns in 2020. We use two distinct empirical approaches in our analysis: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, in order to attempt to control for seasonality. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
+    </div>
+  </details>
 
 ---
 
