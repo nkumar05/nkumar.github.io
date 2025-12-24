@@ -6,8 +6,8 @@ author_profile: true
 <!--
 ## Overview
 My research focuses on the distributional and employment implications of economic growth and structural transformation in developing economies. My work combines applied econometrics and field-experimental evidence with policy-oriented analysis, with recent emphasis on the labor market impacts of **AI and technological change**, the **green transition**, and the **care economy**.
--->
 ---
+-->
 
 ## Peer-reviewed Publications
 - **[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi](https://doi.org/10.1093/wber/lhae040)**, with Shilpa Aggarwal, Dahyeon Jeong, David Sungho Park, Jonathan Robinson, and Alan Spearot. *World Bank Economic Review* (forthcoming).
