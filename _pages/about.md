@@ -6,17 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am **Your Name**, currently working as **Your position / affiliation**.  
-My work focuses on applied economic analysis at the intersection of **topic A**, **topic B**, and **topic C**.
+I am Naresh Kumar, an Economist with the World Bank in India. My work focuses on applied policy analysis at the intersection of macroeconomic policy, productivity and structural transformation, and labor markets. My current research examines the labor market impacts of AI and technological change, the green transition, and the care economy, combining rigorous empirical methods with policy-oriented analysis.
 
 ## Research Interests
-- Topic 1 (e.g. Labor markets and jobs)
-- Topic 2 (e.g. Trade, productivity, and firm dynamics)
-- Topic 3 (e.g. Development economics / policy evaluation)
-- Topic 4 (optional)
+- Labor markets and jobs
+- AI and technological change
+- Green transition
+- Care economy
+
 
 ## Contact
-Email: nkumar.econ@gmail.com
+Email: nkumar18@worldbank.org
 Location: New Delhi, India  
 
 [Download CV (PDF)](/files/CV.pdf)
