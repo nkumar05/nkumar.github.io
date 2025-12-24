@@ -2,6 +2,7 @@
 title: "External Links"
 permalink: /links/
 author_profile: true
+author: "Naresh Kumar"
 ---
 
 - Google Scholar: (link)
