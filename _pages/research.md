@@ -15,13 +15,8 @@ My research focuses on the distributional and employment implications of economi
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
     <summary><strong>Abstract</strong></summary>
     <div style="margin-top: 0.5rem;">
-      Women may under-report intimate partner violence (IPV) in surveys. In an experiment in
-  rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face
-  interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant
-  effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is
-  typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed,
-  the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these
-  increases are spurious.
+      Women may under-report intimate partner violence (IPV) in surveys. In an experiment in rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed,
+the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these increases are spurious.
     </div>
   </details>
 
@@ -48,9 +43,7 @@ My research focuses on the distributional and employment implications of economi
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
     <summary><strong>Abstract</strong></summary>
     <div style="margin-top: 0.5rem;">
-      We use data collected from panel phone surveys to document the changes in food security
-  of households in rural Liberia and Malawi during the market disruptions associated with the
-  COVID-19 lockdowns in 2020. We use two distinct empirical approaches in our analysis: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, in order to attempt to control for seasonality. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
+      We use data collected from panel phone surveys to document the changes in food security of households in rural Liberia and Malawi during the market disruptions associated with the COVID-19 lockdowns in 2020. We use two distinct empirical approaches in our analysis: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, in order to attempt to control for seasonality. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
     </div>
   </details>
 
@@ -62,13 +55,7 @@ My research focuses on the distributional and employment implications of economi
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
   <summary><strong>Abstract</strong></summary>
   <div style="margin-top: 0.5rem;">
-    Little is known about the evolution and persistence of the effects of one-time cash transfers,
-especially in rural agricultural settings with limited productive investment opportunities. We
-use bi-monthly phone surveys to estimate dynamic impacts for cash transfer recipients in Liberia
-and Malawi. We find immediate increases in food security that attenuate over time but do not
-entirely dissipate even 1.5-2 years later, driven by increased farm investments and production. We
-find increases in farm profits, reductions in casual off-farm labor, improvements in psychological
-well-being, and, in Liberia, a reduction in IPV.
+    Little is known about the evolution and persistence of the effects of one-time cash transfers, especially in rural agricultural settings with limited productive investment opportunities. We use bi-monthly phone surveys to estimate dynamic impacts for cash transfer recipients in Liberia and Malawi. We find immediate increases in food security that attenuate over time but do not entirely dissipate even 1.5-2 years later, driven by increased farm investments and production. We find increases in farm profits, reductions in casual off-farm labor, improvements in psychological well-being, and, in Liberia, a reduction in IPV.
   </div>
 </details>
   
@@ -77,8 +64,7 @@ well-being, and, in Liberia, a reduction in IPV.
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
   <summary><strong>Abstract</strong></summary>
   <div style="margin-top: 0.5rem;">
-    Many countries subsidize agricultural inputs but require farmers to travel to retail-
-ers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
+    Many countries subsidize agricultural inputs but require farmers to travel to retailers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
   </div>
 </details>
 
