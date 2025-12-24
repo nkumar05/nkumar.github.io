@@ -1,9 +1,9 @@
-author: "Naresh Kumar"
 
 ---
 permalink: /
-title: 
+title: ""
 author_profile: true
+author: "Naresh Kumar"
 redirect_from: 
   - /about/
   - /about.html
