@@ -4,9 +4,13 @@ Naresh Kumar:
   avatar: "profile.png"
   bio: "Economist, World Bank"
   email: "nkumar.econ@gmail.com"
-  location: "New Delhi, India"
+  location: ""
   # employer: "World Bank"
  
   googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # github: "nkumar05" 
-  linkedin: "https://in.linkedin.com/in/naresh85"
+  linkedin: "naresh85"
+  links:
+    - label: "CV (PDF)"
+      icon: "fas fa-file-pdf"
+      url: "/files/CV.pdf"
