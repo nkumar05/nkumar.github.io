@@ -1,5 +1,5 @@
 ---
-title: "External Links"
+title: "Useful Resources"
 permalink: /links/
 author_profile: true
 author: "Naresh Kumar"
