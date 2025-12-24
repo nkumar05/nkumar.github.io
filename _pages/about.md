@@ -13,21 +13,16 @@ redirect_from:
 I am **Naresh Kumar**, an Economist with the World Bank in India. My work focuses on applied policy analysis at the intersection of macroeconomic policy, productivity and structural transformation, and labor markets. My current research examines the labor market impacts of AI and technological change, the green transition, and the care economy, combining rigorous empirical methods with policy-oriented analysis.
 
 <div style="margin-top: 2.5rem; margin-bottom: 2.5rem; text-align: center;">
-  <div style="
-    width: 100%;
-    max-width: 720px;
-    height: 260px;
-    margin: 0 auto;
-    border: 1px solid #d1d5db;
-    background-color: #f9fafb;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #6b7280;
-    font-size: 0.95rem;
-  ">
-    Image / Figure Placeholder
-  </div>
+  <img
+    src="/images/cover2.png"
+    alt="Cover image"
+    style="
+      width: 100%;
+      max-width: 720px;
+      height: auto;
+      border: 1px solid #d1d5db;
+    "
+  >
 </div>
 
 <!--
