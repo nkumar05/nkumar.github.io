@@ -2,9 +2,11 @@
 Naresh Kumar:
   name: "Naresh Kumar"
   avatar: "profile.png"
-  bio: "Economist focused on growth, trade, labor markets, and applied policy analysis."
-  location: "New Delhi, India"
-  employer: "World Bank"
+  bio: "Economist, World Bank"
   email: "nkumar.econ@gmail.com"
+  location: "New Delhi, India"
+  # employer: "World Bank"
+ 
   googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  github: "nkumar05"
+  #github: "nkumar05" 
+  linkedin: "https://in.linkedin.com/in/naresh85"
