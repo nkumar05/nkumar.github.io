@@ -16,8 +16,7 @@ My research focuses on the distributional and employment implications of economi
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
     <summary><strong>Abstract</strong></summary>
     <div style="margin-top: 0.5rem;">
-      Women may under-report intimate partner violence (IPV) in surveys. In an experiment in rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed,
-the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these increases are spurious.
+      Women may under-report intimate partner violence (IPV) in surveys. In an experiment in rural Liberia and Malawi, women were asked IPV questions via self-interviewing (SI) or face-to-face interviewing (FTFI). Many respondents appear to misunderstand questions in SI, and significant effects of SI were observed on innocuous placebo questions. Because the prevalence of IPV is typically well below 50%, such measurement error will tend to bias IPV reporting upwards. Indeed, the results show that SI increases reported incidence of IPV, but it cannot be ruled out that these increases are spurious.
     </div>
   </details>
 
