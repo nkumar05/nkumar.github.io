@@ -19,10 +19,16 @@ I am **Naresh Kumar**, an Economist with the World Bank in India. My work focuse
 **Email:** nkumar.econ@gmail.com 
 **Research Fields:** Development economics; macroeconomic policy and structural transformation; technology, productivity, and labor markets.
 [Download CV (PDF)](/files/CV.pdf)
-
+<!--
 ■ **Email:** nkumar.econ@gmail.com  
 ■ **Research Fields:** Development economics; macroeconomic policy and structural transformation; technology, productivity, and labor markets.  
 ■ [**CV**(PDF)](/files/CV.pdf)
+-->
+<ul style="list-style-type:square; padding-left: 1.2em;">
+  <li><strong>Email:</strong> nkumar.econ@gmail.com</li>
+  <li><strong>Research Fields:</strong> Development economics; macroeconomic policy and structural transformation; technology, productivity, and labor markets.</li>
+  <li><strong>CV:</strong> <a href="/files/CV.pdf">Download CV (PDF)</a></li>
+</ul>
 
 <!--
 Location: New Delhi, India  
