@@ -63,11 +63,11 @@ the results show that SI increases reported incidence of IPV, but it cannot be r
 - **[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](https://drive.google.com/file/d/18vmXKlNaDD1h13iWjQPzuAO4m4DNaB3x/view)**, with Shilpa Aggarwal, Dahyeon Jeong, Rolly Kapoor, David Sungho Park, Jonathan Robinson, and Alan Spearot. 2025.
 
   <details style="margin: 0.25rem 0 1rem 1.25rem;">
-    <summary><strong>Abstract</strong></summary>
-    <div style="margin-top: 0.5rem;">
-      Many countries subsidize agricultural inputs but require farmers to travel to retailers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
-    </div>
- </details>
+      <summary><strong>Abstract</strong></summary>
+      <div style="margin-top: 0.5rem;">
+        Many countries subsidize agricultural inputs but require farmers to travel to retailers to access them, just as for normal purchases. What effect do travel costs have on subsidy take-up and input usage, particularly for remote farmers? We analyze Malawi’s Farm Input Subsidy Program (FISP), and find that travel-cost-adjusted prices are substantially higher in remote areas, due almost entirely to increased travel costs. Nevertheless, subsidy redemption is nearly universal and only modestly lower in remoteareas, suggesting that these travel costs are not enough to dissuade redemption. We evaluate the effect of FISP on spatial adoption, by utilizing a policy change which centralized beneficiary selection, and find that FISP substantially mitigates the sizeable remoteness gradient that exists for non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities.
+      </div>
+  </details>
 
 - **“Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia,”** with David Sungho Park. September 2022.
 
