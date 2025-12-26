@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "Naresh Kumar"
 title_separator          : "-"
 name                     : &name "Naresh Kumar"
-description              : &description "Economist | Applied macro, trade, and labor markets"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Economist | Development policy and jobs"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nkumar05.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Naresh Kumar"
   pronouns         :
-  bio              : "Economist focused on growth, trade, labor markets, and applied policy analysis."
+  bio              : "Economist focused on development policy and jobs"
   location         : "New Delhi, India"
   employer         : "World Bank"
   uri              :
