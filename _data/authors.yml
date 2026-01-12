@@ -9,8 +9,8 @@ Naresh Kumar:
  
   googlescholar: "https://scholar.google.com/citations?user=1LC3H_kAAAAJ&hl=en"
   # github: "nkumar05" 
-  linkedin: "naresh85"
-  links:
-    - label: "CV (PDF)"
-      icon: "fas fa-file-pdf"
-      url: "/files/CV.pdf"
+  # linkedin: "naresh85"
+  # links:
+  #   - label: "CV (PDF)"
+  #     icon: "fas fa-file-pdf"
+  #     url: "/files/CV.pdf"
